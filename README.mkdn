@@ -20,6 +20,15 @@ This document describes version 0.001 of BLAH::Role::Authentication - released J
 
 Returns true if authentication has been performed successfully; false if not.
 
+What this means, exactly, is left to the implementer -- or more likely to more
+concrete authentication roles.
+
+# SEE ALSO
+
+Please see those modules/websites for more information related to this module.
+
+- [BLAH](https://metacpan.org/pod/BLAH)
+
 # BUGS
 
 Please report any bugs or feature requests on the bugtracker website

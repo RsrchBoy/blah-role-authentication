@@ -9,6 +9,9 @@ use namespace::autoclean 0.24;
 
 Returns true if authentication has been performed successfully; false if not.
 
+What this means, exactly, is left to the implementer -- or more likely to more
+concrete authentication roles.
+
 =cut
 
 requires 'authenticated';
@@ -21,5 +24,7 @@ __END__
 =head1 DESCRIPTION
 
 =head1 SEE ALSO
+
+BLAH
 
 =cut
